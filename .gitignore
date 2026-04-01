@@ -1,0 +1,18 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+npm-debug.log
+
+# Firebase
+firebase-service-account.json
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
