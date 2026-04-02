@@ -1,0 +1,23 @@
+# Mac
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+npm-debug.log
+
+# Firebase
+firebase-service-account.json
+google-services.json
+GoogleService-Info.plist
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+logs/
+*.log
