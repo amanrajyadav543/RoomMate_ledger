@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+.git
+.gitignore
+*.md
+.DS_Store
+firebase-service-account.json
+docker-compose.yml
