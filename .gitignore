@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Mac
 .DS_Store
 
+=======
+>>>>>>> 165cd667531549faf5cf4bd1e91a424f74fe0f76
 # Environment
 .env
 .env.local
@@ -12,11 +15,17 @@ npm-debug.log
 
 # Firebase
 firebase-service-account.json
+<<<<<<< HEAD
 google-services.json
 GoogleService-Info.plist
 
 # Docker
 docker-compose.override.yml
+=======
+
+# Mac
+.DS_Store
+>>>>>>> 165cd667531549faf5cf4bd1e91a424f74fe0f76
 
 # Logs
 logs/
